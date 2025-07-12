@@ -1,0 +1,11 @@
+Store,Total Sales,POS Transactions,POS Value,Online Transactions,Online Value,People Counting,Vehicles Parked,Gun Detection,Theft Detection,Footfall Peak Hour,Average Dwell Time (mins),Employee Count,Customer Satisfaction Score (out of 10),Face Recognition Alerts
+Store 1,25964$,35,25168$,7,16968$,240,26,YES,NO,11 AM - 12 PM,12,7,7.5,3
+Store 2,30831$,45,17223$,22,6786$,100,32,YES,YES,3 PM - 4 PM,15,7,6.9,3
+Store 3,27956$,46,18225$,15,7498$,231,37,NO,YES,5 PM - 6 PM,11,7,6.6,0
+Store 4,29945$,46,11263$,13,17258$,160,46,NO,YES,11 AM - 12 PM,15,10,9.4,5
+Store 5,49194$,50,10422$,22,16939$,140,26,YES,NO,11 AM - 12 PM,12,13,7.5,3
+Store 6,26648$,24,29248$,23,18788$,119,24,NO,NO,5 PM - 6 PM,7,5,6.7,5
+Store 7,44859$,25,15600$,12,19716$,261,39,YES,NO,11 AM - 12 PM,13,6,6.4,3
+Store 8,32231$,43,28943$,20,13815$,202,33,YES,NO,5 PM - 6 PM,14,9,8.9,5
+Store 9,45724$,16,21756$,19,12944$,116,28,YES,NO,3 PM - 4 PM,8,8,6.2,5
+Store 10,39082$,11,28344$,7,5332$,154,20,NO,YES,5 PM - 6 PM,13,7,9.4,2
