@@ -1,6 +1,6 @@
 # RAG_model
 
-# 🤖 RAG CSV Chatbot using LangChain & Gemini 2.0 Flash
+
 
 This project is an AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that lets users upload **CSV files** and ask intelligent, structured questions about the data. It's built using **LangChain**, **ChromaDB**, and **Gemini 2.0 Flash** from **Google Generative AI**.
 
